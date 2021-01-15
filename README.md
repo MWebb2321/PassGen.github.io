@@ -10,3 +10,6 @@ To be honest, this assignment is giving me grief. I've been trying to figure out
 
 1/13/21
 After some help, I was able to get my prompts working, but there is an issue with the end section.
+
+1/14/21
+Was able to figure out the issues with the numbers and passwood generator should be working as expected.
